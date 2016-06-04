@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:3:5-42
+	android:versionName
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml
+		INJECTED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml
+		INJECTED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:8:9-34
+uses-permission#android.permission.INTERNET
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:11:22-64
+application
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:13:5-49:19
+	android:label
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:16:9-41
+	android:allowBackup
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:15:9-45
+	android:theme
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:17:9-40
+activity#com.bgxt.datatimepickerdemo.MainActivity
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:19:13-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:24:27-74
+activity#com.bgxt.datatimepickerdemo.AsyncTaskActivity1
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:27:9-56
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:27:19-53
+activity#com.bgxt.datatimepickerdemo.AsyncTaskActivity2
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:28:9-56
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:28:19-53
+activity#com.bgxt.datatimepickerdemo.HandlerMessageActivity1
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:29:9-61
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:29:19-58
+activity#com.bgxt.datatimepickerdemo.HandlerMessageActivity2
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:30:9-61
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:30:19-58
+activity#com.bgxt.datatimepickerdemo.HandlerPostActivity1
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:31:10-59
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:31:20-56
+activity#com.bgxt.datatimepickerdemo.HandlerPostActivity2
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:32:10-59
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:32:20-56
+activity#com.bgxt.datatimepickerdemo.thread.right.ANR1Right
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:35:10-61
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:35:20-58
+activity#com.bgxt.datatimepickerdemo.thread.right.ANR2Right
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:36:10-61
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:36:20-58
+activity#com.bgxt.datatimepickerdemo.thread.right.ANR3AsyDownLoad
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:38:10-67
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:38:20-64
+activity#com.bgxt.datatimepickerdemo.thread.right.ANR3AsyRight
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:39:10-64
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:39:20-61
+activity#com.bgxt.datatimepickerdemo.thread.wrong.ANR1
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:40:10-56
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:40:20-53
+activity#com.bgxt.datatimepickerdemo.thread.wrong.ANR2
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:41:10-56
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:41:20-53
+activity#com.bgxt.datatimepickerdemo.thread.wrong.ANR3
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:42:10-56
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:42:20-53
+activity#com.bgxt.datatimepickerdemo.thread.wrong.ANR3Asy
+ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:43:10-59
+	android:name
+		ADDED from /Users/icqapp/Downloads/android/download/ThreadDemo/AndroidManifest.xml:43:20-56

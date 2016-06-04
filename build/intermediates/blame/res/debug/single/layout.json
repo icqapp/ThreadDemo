@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/icqapp/Downloads/android/download/ThreadDemo/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_right_activity2.xml",
+        "source": "/Users/icqapp/Downloads/android/download/ThreadDemo/res/layout/anr_right_activity2.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Desktop/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_asy_down_activity.xml",
+        "source": "/Users/icqapp/Desktop/ThreadDemo/res/layout/anr_asy_down_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_asy_down_activity.xml",
+        "source": "/Users/icqapp/Downloads/android/download/ThreadDemo/res/layout/anr_asy_down_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Desktop/ThreadDemo/build/intermediates/res/merged/debug/layout/message_activity2.xml",
+        "source": "/Users/icqapp/Desktop/ThreadDemo/res/layout/message_activity2.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Desktop/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_asy_right_activity.xml",
+        "source": "/Users/icqapp/Desktop/ThreadDemo/res/layout/anr_asy_right_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_right_activity.xml",
+        "source": "/Users/icqapp/Downloads/android/download/ThreadDemo/res/layout/anr_right_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_asy_right_activity.xml",
+        "source": "/Users/icqapp/Downloads/android/download/ThreadDemo/res/layout/anr_asy_right_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Desktop/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_activity1.xml",
+        "source": "/Users/icqapp/Desktop/ThreadDemo/res/layout/anr_activity1.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Desktop/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_asy_activity.xml",
+        "source": "/Users/icqapp/Desktop/ThreadDemo/res/layout/anr_asy_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/res/merged/debug/layout/message_activity2.xml",
+        "source": "/Users/icqapp/Downloads/android/download/ThreadDemo/res/layout/message_activity2.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/res/merged/debug/layout/message_activity.xml",
+        "source": "/Users/icqapp/Downloads/android/download/ThreadDemo/res/layout/message_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/res/merged/debug/layout/asynctask_activity.xml",
+        "source": "/Users/icqapp/Downloads/android/download/ThreadDemo/res/layout/asynctask_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_activity1.xml",
+        "source": "/Users/icqapp/Downloads/android/download/ThreadDemo/res/layout/anr_activity1.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Desktop/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_right_activity.xml",
+        "source": "/Users/icqapp/Desktop/ThreadDemo/res/layout/anr_right_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Desktop/ThreadDemo/build/intermediates/res/merged/debug/layout/message_activity.xml",
+        "source": "/Users/icqapp/Desktop/ThreadDemo/res/layout/message_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Desktop/ThreadDemo/build/intermediates/res/merged/debug/layout/asynctask_activity.xml",
+        "source": "/Users/icqapp/Desktop/ThreadDemo/res/layout/asynctask_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_asy_activity.xml",
+        "source": "/Users/icqapp/Downloads/android/download/ThreadDemo/res/layout/anr_asy_activity.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Desktop/ThreadDemo/build/intermediates/res/merged/debug/layout/anr_right_activity2.xml",
+        "source": "/Users/icqapp/Desktop/ThreadDemo/res/layout/anr_right_activity2.xml"
+    },
+    {
+        "merged": "/Users/icqapp/Desktop/ThreadDemo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/icqapp/Desktop/ThreadDemo/res/layout/activity_main.xml"
+    }
+]

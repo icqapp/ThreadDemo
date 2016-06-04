@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/icqapp/Downloads/android/download/ThreadDemo/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/pre-dexed/debug/android-support-v4_e8821884ad887831dc6575794157c8b6eb46eb26.jar" />
+    </item>
+
+</items>

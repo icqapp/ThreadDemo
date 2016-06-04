@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bgxt.datatimepickerdemo"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.bgxt.datatimepickerdemo.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".AsyncTaskActivity1" />
+        <activity android:name=".AsyncTaskActivity2" />
+        <activity android:name=".HandlerMessageActivity1" />
+        <activity android:name=".HandlerMessageActivity2" />
+         <activity android:name=".HandlerPostActivity1" />
+         <activity android:name=".HandlerPostActivity2" />
+         
+         
+         <activity android:name=".thread.right.ANR1Right" />
+         <activity android:name=".thread.right.ANR2Right" />
+         
+         <activity android:name=".thread.right.ANR3AsyDownLoad" />
+         <activity android:name=".thread.right.ANR3AsyRight" />
+         <activity android:name=".thread.wrong.ANR1" />
+         <activity android:name=".thread.wrong.ANR2" />
+         <activity android:name=".thread.wrong.ANR3" />
+         <activity android:name=".thread.wrong.ANR3Asy" />
+
+
+
+
+
+    </application>
+
+</manifest>

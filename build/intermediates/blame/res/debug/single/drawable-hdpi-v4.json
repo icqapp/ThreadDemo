@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/icqapp/Downloads/android/download/ThreadDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/icqapp/Downloads/android/download/ThreadDemo/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/icqapp/Desktop/ThreadDemo/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/icqapp/Desktop/ThreadDemo/res/drawable-hdpi/ic_launcher.png"
+    }
+]
